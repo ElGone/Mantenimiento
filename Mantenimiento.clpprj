@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Mantenimiento\Mantenimiento.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/Mantenimiento]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/Mantenimiento]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\Mantenimiento\editpersonal.php"/>
+  <file name="C:\xampp\htdocs\Mantenimiento\edittarea.php"/>
+  <file name="C:\xampp\htdocs\Mantenimiento\ingresopersonal.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3">
+  <errfile name="C:\xampp\htdocs\Mantenimiento\edittarea.php">
+   <error val="142;47;161;47;2002;1;"/>
+   <error val="127;358;146;358;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\bootstrap.bundle.js">
+   <todo pos="5;179" name="TODO: Remove in v5"/>
+   <todo pos="5;5011" name="todo (fat): these should probably be refactored out of modal.js"/>
+   <todo pos="13;6317" name="TODO (fat): remove sketch reliance on jQuery position/offset"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\bootstrap.js">
+   <todo pos="5;180" name="TODO: Remove in v5"/>
+   <todo pos="5;2433" name="todo (fat): these should probably be refactored out of modal.js"/>
+   <todo pos="13;3739" name="TODO (fat): remove sketch reliance on jQuery position/offset"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\dist\modal.js">
+   <todo pos="5;467" name="todo (fat): these should probably be refactored out of modal.js"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\dist\scrollspy.js">
+   <todo pos="13;166" name="TODO (fat): remove sketch reliance on jQuery position/offset"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\dist\util.js">
+   <todo pos="5;123" name="TODO: Remove in v5"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\src\modal.js">
+   <todo pos="3;416" name="todo (fat): these should probably be refactored out of modal.js"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\src\scrollspy.js">
+   <todo pos="13;130" name="TODO (fat): remove sketch reliance on jQuery position/offset"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\js\src\util.js">
+   <todo pos="3;123" name="TODO: Remove in v5"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\js\bootstrap.js">
+   <todo pos="5;2216" name="todo (fat): these should probably be refactored out of modal.js"/>
+   <todo pos="13;2517" name="todo (fat): remove sketch reliance on jQuery position/offset"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Mantenimiento\vendor\daterangepicker\moment.js">
+   <todo pos="9;393" name="TODO: Find a better way to register and load all the locales in Node"/>
+   <todo pos="9;904" name="TODO: add sorting"/>
+   <todo pos="17;944" name="TODO: Another silent failure?"/>
+   <todo pos="13;1422" name="TODO: We need to take the current isoWeekYear, but that depends on"/>
+   <todo pos="9;1472" name="TODO: Move this to another part of the creation flow to prevent circular deps"/>
+   <todo pos="5;1759" name="TODO: Use [].sort instead?"/>
+   <todo pos="5;2139" name="TODO: remove 'name' arg after deprecation is removed"/>
+   <todo pos="5;3785" name="TODO: Use this.as('ms')?"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file crc="1503535972000" name="C:\xampp\htdocs\Mantenimiento\vendor\select2\select2.min.js"/>
+  <file crc="1503535958000" name="C:\xampp\htdocs\Mantenimiento\vendor\select2\select2.min.css"/>
+  <file crc="1503535206000" name="C:\xampp\htdocs\Mantenimiento\vendor\select2\select2.js"/>
+  <file crc="1503533064000" name="C:\xampp\htdocs\Mantenimiento\vendor\select2\select2.css"/>
+  <file crc="1509268440000" name="C:\xampp\htdocs\Mantenimiento\vendor\perfect-scrollbar\perfect-scrollbar.min.js"/>
+  <file crc="1509268440000" name="C:\xampp\htdocs\Mantenimiento\vendor\perfect-scrollbar\perfect-scrollbar.css"/>
+  <file crc="1501255456000" name="C:\xampp\htdocs\Mantenimiento\vendor\jquery\jquery-3.2.1.min.js"/>
+  <file crc="1502240974000" name="C:\xampp\htdocs\Mantenimiento\vendor\daterangepicker\moment.min.js"/>
+  <file crc="1502240974000" name="C:\xampp\htdocs\Mantenimiento\vendor\daterangepicker\moment.js"/>
+  <file crc="1503595814000" name="C:\xampp\htdocs\Mantenimiento\vendor\daterangepicker\daterangepicker.js"/>
+  <file crc="1502240974000" name="C:\xampp\htdocs\Mantenimiento\vendor\daterangepicker\daterangepicker.css"/>
+  <file crc="1502934352000" name="C:\xampp\htdocs\Mantenimiento\vendor\css-hamburgers\hamburgers.min.css"/>
+  <file crc="1502934352000" name="C:\xampp\htdocs\Mantenimiento\vendor\css-hamburgers\hamburgers.css"/>
+  <file crc="1510252452000" name="C:\xampp\htdocs\Mantenimiento\vendor\countdowntime\countdowntime.js"/>
+  <file crc="1506549540000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\js\tooltip.js"/>
+  <file crc="1503342780000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\js\popper.min.js"/>
+  <file crc="1506549556000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\js\popper.js"/>
+  <file crc="1502412682000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\js\bootstrap.min.js"/>
+  <file crc="1502412682000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\js\bootstrap.js"/>
+  <file crc="1502412732000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\css\bootstrap.min.css"/>
+  <file crc="1502412730000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\css\bootstrap.css"/>
+  <file crc="1502412734000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\css\bootstrap-reboot.min.css"/>
+  <file crc="1502412730000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\css\bootstrap-reboot.css"/>
+  <file crc="1502412732000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\css\bootstrap-grid.min.css"/>
+  <file crc="1502412730000" name="C:\xampp\htdocs\Mantenimiento\vendor\bootstrap\css\bootstrap-grid.css"/>
+  <file crc="1502542570000" name="C:\xampp\htdocs\Mantenimiento\vendor\animsition\js\animsition.min.js"/>
+  <file crc="1502542570000" name="C:\xampp\htdocs\Mantenimiento\vendor\animsition\js\animsition.js"/>
+  <file crc="1502542570000" name="C:\xampp\htdocs\Mantenimiento\vendor\animsition\css\animsition.min.css"/>
+  <file crc="1502542570000" name="C:\xampp\htdocs\Mantenimiento\vendor\animsition\css\animsition.css"/>
+  <file crc="1504195346000" name="C:\xampp\htdocs\Mantenimiento\vendor\animate\animate.css"/>
+  <file crc="1584778581090" name="C:\xampp\htdocs\Mantenimiento\nbproject\private\private.xml"/>
+  <file crc="1584765055414" name="C:\xampp\htdocs\Mantenimiento\nbproject\project.xml"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\tooltip.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\toast.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\tab.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\scrollspy.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\popover.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\modal.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\dropdown.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\collapse.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\carousel.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\button.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\visual\alert.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\util.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\tooltip.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\toast.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\tab.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\scrollspy.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\popover.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\modal.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\dropdown.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\collapse.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\carousel.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\button.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\alert.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\unit\.eslintrc.json"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\integration\rollup.bundle.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\integration\index.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\integration\bundle.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\karma.conf.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\index.html"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\tests\browsers.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\tools\sanitizer.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\util.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\tooltip.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\toast.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\tab.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\scrollspy.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\popover.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\modal.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\index.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\dropdown.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\collapse.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\carousel.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\button.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\src\alert.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\dist\util.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\dist\tooltip.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\toast.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\tab.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\scrollspy.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\popover.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\modal.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\index.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\dropdown.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\collapse.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\carousel.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\button.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\dist\alert.js"/>
+  <file crc="1555229377399" name="C:\xampp\htdocs\Mantenimiento\js\scroll.js"/>
+  <file crc="1366921930000" name="C:\xampp\htdocs\Mantenimiento\js\modernizr.custom.js"/>
+  <file crc="1513633468000" name="C:\xampp\htdocs\Mantenimiento\js\main.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\jquery.js"/>
+  <file crc="1375190180000" name="C:\xampp\htdocs\Mantenimiento\js\gnmenu.js"/>
+  <file crc="1367571744000" name="C:\xampp\htdocs\Mantenimiento\js\classie.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\bootstrap.min.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\bootstrap.js"/>
+  <file crc="1556352120000" name="C:\xampp\htdocs\Mantenimiento\js\bootstrap.bundle.min.js"/>
+  <file crc="1556352060000" name="C:\xampp\htdocs\Mantenimiento\js\bootstrap.bundle.js"/>
+  <file crc="1323745200000" name="C:\xampp\htdocs\Mantenimiento\fonts\montserrat\OFL.txt"/>
+  <file crc="1511815410000" name="C:\xampp\htdocs\Mantenimiento\fonts\Linearicons-Free-v1.0.0\icon-font.min.css"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\font-awesome.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_variables.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_stacked.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_screen-reader.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_path.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_mixins.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_list.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_larger.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_icons.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_fixed-width.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_core.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\scss\_animated.scss"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\variables.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\stacked.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\screen-reader.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\rotated-flipped.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\path.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\mixins.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\list.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\larger.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\icons.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\font-awesome.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\fixed-width.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\core.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\bordered-pulled.less"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\less\animated.less"/>
+  <file crc="1495572234000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\css\font-awesome.min.css"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\css\font-awesome.css"/>
+  <file crc="1495572232000" name="C:\xampp\htdocs\Mantenimiento\fonts\font-awesome-4.7.0\HELP-US-OUT.txt"/>
+  <file crc="1375103358000" name="C:\xampp\htdocs\Mantenimiento\fonts\ecoicons\Read Me.txt"/>
+  <file crc="1375103358000" name="C:\xampp\htdocs\Mantenimiento\fonts\ecoicons\license.txt"/>
+  <file crc="1367527432000" name="C:\xampp\htdocs\Mantenimiento\fonts\codropsicons\license.txt"/>
+  <file crc="1583849197923" name="C:\xampp\htdocs\Mantenimiento\css\open-iconic\font\css\open-iconic-bootstrap.min.css"/>
+  <file crc="1583849197815" name="C:\xampp\htdocs\Mantenimiento\css\bootstrap\bootstrap.min.css"/>
+  <file crc="1513190640000" name="C:\xampp\htdocs\Mantenimiento\css\util.css"/>
+  <file crc="1583849197806" name="C:\xampp\htdocs\Mantenimiento\css\site.css"/>
+  <file crc="1373332200000" name="C:\xampp\htdocs\Mantenimiento\css\normalize.css"/>
+  <file crc="1513774306000" name="C:\xampp\htdocs\Mantenimiento\css\main.css"/>
+  <file crc="1582735180805" name="C:\xampp\htdocs\Mantenimiento\css\inputStyle.css"/>
+  <file crc="1582749305890" name="C:\xampp\htdocs\Mantenimiento\css\InputLabel.css"/>
+  <file crc="1586155297824" name="C:\xampp\htdocs\Mantenimiento\css\estilos.css"/>
+  <file crc="1375187016000" name="C:\xampp\htdocs\Mantenimiento\css\demo.css"/>
+  <file crc="1375193416000" name="C:\xampp\htdocs\Mantenimiento\css\component.css"/>
+  <file crc="1556707740000" name="C:\xampp\htdocs\Mantenimiento\css\bootstrap.min.css"/>
+  <file crc="1556707740000" name="C:\xampp\htdocs\Mantenimiento\css\bootstrap.css"/>
+  <file crc="1556707740000" name="C:\xampp\htdocs\Mantenimiento\css\bootstrap-reboot.min.css"/>
+  <file crc="1556707740000" name="C:\xampp\htdocs\Mantenimiento\css\bootstrap-reboot.css"/>
+  <file crc="1556707740000" name="C:\xampp\htdocs\Mantenimiento\css\bootstrap-grid.min.css"/>
+  <file crc="1556707740000" name="C:\xampp\htdocs\Mantenimiento\css\bootstrap-grid.css"/>
+  <file crc="1587092188006" name="C:\xampp\htdocs\Mantenimiento\class\class.php"/>
+  <file crc="1587094987205" name="C:\xampp\htdocs\Mantenimiento\vertarea.php"/>
+  <file crc="1587447329190" name="C:\xampp\htdocs\Mantenimiento\tareas.php"/>
+  <file crc="1586499198904" name="C:\xampp\htdocs\Mantenimiento\principalsinvertical.php"/>
+  <file crc="1587092980644" name="C:\xampp\htdocs\Mantenimiento\principal.php"/>
+  <file crc="1585114478491" name="C:\xampp\htdocs\Mantenimiento\principal.html"/>
+  <file crc="1587445740736" name="C:\xampp\htdocs\Mantenimiento\personal.php"/>
+  <file crc="1587448732244" name="C:\xampp\htdocs\Mantenimiento\pedidoayudantes.php"/>
+  <file crc="1585278868860" name="C:\xampp\htdocs\Mantenimiento\Pautas.txt"/>
+  <file crc="1587001177203" name="C:\xampp\htdocs\Mantenimiento\modificotarea.php"/>
+  <file crc="1586484656326" name="C:\xampp\htdocs\Mantenimiento\modificopersonal.php"/>
+  <file crc="1585010294300" name="C:\xampp\htdocs\Mantenimiento\login.php"/>
+  <file crc="1587447783162" name="C:\xampp\htdocs\Mantenimiento\ingresotarea.php"/>
+  <file crc="1586405095715" name="C:\xampp\htdocs\Mantenimiento\ingresopersonal.php"/>
+  <file crc="1586502568058" name="C:\xampp\htdocs\Mantenimiento\ingresoayudantes.php"/>
+  <file crc="1585014616338" name="C:\xampp\htdocs\Mantenimiento\index.php"/>
+  <file crc="1586582501205" name="C:\xampp\htdocs\Mantenimiento\exit.php"/>
+  <file crc="1587445689785" name="C:\xampp\htdocs\Mantenimiento\especializaciones.php"/>
+  <file crc="1587446090158" name="C:\xampp\htdocs\Mantenimiento\edittarea.php"/>
+  <file crc="1587117062666" name="C:\xampp\htdocs\Mantenimiento\editpersonal.php"/>
+  <file crc="1585023553967" name="C:\xampp\htdocs\Mantenimiento\conexion.php"/>
+  <file crc="1587447441100" name="C:\xampp\htdocs\Mantenimiento\cargotarea.php"/>
+  <file crc="1586502442459" name="C:\xampp\htdocs\Mantenimiento\cargopersonal.php"/>
+  <file crc="1585357992292" name="C:\xampp\htdocs\Mantenimiento\cabezera.html"/>
+  <file crc="1585725531609" name="C:\xampp\htdocs\Mantenimiento\auxiliar.php"/>
+  <file crc="1584769681505" name="C:\xampp\htdocs\Mantenimiento\antes.php"/>
+ </filescache>
+</project>

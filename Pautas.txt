@@ -1,0 +1,32 @@
+Martín, te paso el requerimiento para que vayas armando la especificación funcional
+
+ 
+
+3 supervisores con (aprox) 35 personas a cargo y les asignamos tareas de:
+
+Electricidad
+Pintura
+Albañilería
+Tareas generales 
+Plomería
+Herrería
+Calderistas
+Aire Acondicionado
+Audio
+El objetivo del sistema es poder ver quien está disponible para asignación de tareas y ver quien está ocupado y haciendo qué, exactamente.
+
+La asignación de tareas casi siempre es diaria aunque alguna vez esta ocupara más de un día.
+
+Nos gustaría que la asignación sea liberada primero por el empleado y luego de ser corroborada por alguno de nosotros tenga una segunda "liberación".
+
+También es importante que se muestre cual de nosotros tres convoco cada trabajo.
+
+Nos gustaría que haya un apartado de notas en cada tarea asignada y también cuente con un espacio para que nos pidan los materiales que ellos consideren que van a necesitar.
+
+Que en cada pedido de trabajo figure fecha y horario de inicio y de final.
+
+También que haya la posibilidad de convocar a ayudantes, (por ej el albañil + 2 ayudantes) que lo podamos convocar nosotros o pedir el mismo albañil si considera que requiere mas ayuda.
+
+También la posibilidad de convocar un encadenado de trabajos (por ej. el albañil recubre un agujero, una vez que anuncia que finalizo que se "desbloquee" el pedido para el pintor, y etc) 
+
+ 

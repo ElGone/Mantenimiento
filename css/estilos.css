@@ -1,0 +1,105 @@
+.strong, b {
+    font-weight: bold;
+}
+
+.scrollable {
+	height: 30px;
+	overflow: scroll;
+}
+
+
+
+.navbar {
+	margin-bottom: 0;
+}
+
+
+.jumbotron {
+   background: #A93226;
+   color:#fff;
+   font-family: "Meta", "Tahoma", sans-serif;
+
+
+   
+}
+
+.jumbotron .subtitulo-blog{
+	font-size: 20px;
+	font-family: "Meta", "Tahoma", sans-serif;
+}
+
+.main {
+margin-top:20px;
+margin-bottom:20px;
+}
+
+.post {
+padding-bottom:20px;
+margin-bottom:20px;
+border-bottom:1px solid #999;
+}
+
+.post .post-title a {
+	color:#A93226;
+}
+
+.post .thumb{
+	 margin-right:10px;
+	 width:40%;
+	 float: left;
+}
+
+.post .thumb img {
+	width:100% 
+}
+
+@media screen and (max-width: 768px) {
+ .post .thumb {
+width: 100%;
+margin-bottom: 20px;
+margin-right: 0px;
+
+ }
+
+}
+
+.cuadro a:hover {
+text-decoration:underline; 
+color:#DC143C;
+
+}
+
+
+.escudos{
+   background: url(http://desarrollofrontend.com/wp-content/uploads/2014/09/flatdiseno1.png) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   height: 100%;
+   width: 100% ;
+   text-align: center;
+} 
+
+.redondo{
+    border: 2px solid grey;
+    width:500px;
+    height:500px;
+    border-radius:150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

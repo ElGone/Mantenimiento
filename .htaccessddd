@@ -1,0 +1,9 @@
+RewriteEngine on
+ErrorDocument 404 /error.php
+ErrorDocument 403 /error.php
+
+RewriteRule ^empresa/(.*).html empresa.php?empresa=$1
+
+
+
+ 
